@@ -1,0 +1,10 @@
+.video-venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+canvas_videos/
+*.part
+*.mp4
+*.webm
+.env
